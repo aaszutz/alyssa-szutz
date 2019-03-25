@@ -1,0 +1,73 @@
+
+h1 {
+    color: slategray;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: slategray;
+    font-family: 'Kristi', cursive;
+}
+
+h4 {
+    color: white;
+    font-family: 'Kristi', cursive;
+}
+
+.topBorder{
+    background: rgb(199, 137, 147);
+    padding: 20px;
+    width: 100%;
+
+}
+.nav-link {
+    color: gray;
+    margin-bottom: 40px;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.nameBanner {
+    padding: 40px;
+    margin-top: 10px;
+}
+
+#carouselExampleControls {
+    max-height: 550px;
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    justify-content: center;
+}
+
+.carousel-inner img {
+    margin: auto;
+    max-height: 550px;  
+}
+
+.backgroundCarousel {
+    background-image: url(../images/1.jpg);
+    width: 100%;
+}
+
+.aboutMe {
+    width: 95%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.aboutMePara {
+    font-family: 'Montserrat', sans-serif;
+    color: slategray;
+}
+
+.footer {
+    padding: 20px;
+    margin-top: 10px;
+    background: gray;
+    width: 100%;
+}
