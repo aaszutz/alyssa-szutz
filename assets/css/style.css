@@ -47,7 +47,8 @@ h4 {
     max-height: 550px;  
 }
 
-.backgroundCarousel {
+
+.backgroundImage {
     background-image: url(../images/1.jpg);
     width: 100%;
 }
@@ -64,6 +65,20 @@ h4 {
     font-family: 'Montserrat', sans-serif;
     color: slategray;
 }
+
+.contactForm {
+    width: 80%;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    float: center;
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+
+
 
 .footer {
     padding: 20px;
