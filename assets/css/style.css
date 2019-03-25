@@ -76,7 +76,25 @@ h4 {
     color: white;
 }
 
+/* .portfolio-img {
+    width: 50%;
+    margin: auto;
+    display: inline-block;
+    max-height: 500px;
+} */
 
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 
 
 
@@ -86,3 +104,10 @@ h4 {
     background: gray;
     width: 100%;
 }
+
+
+@media screen and (max-width: 980px) {
+    .column {
+      width: 100%;
+    }
+  }
