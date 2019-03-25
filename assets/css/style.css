@@ -96,7 +96,19 @@ h4 {
     display: table;
 }
 
+.myInformation {
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+}
 
+a {
+    color: gray;
+}
+
+a:hover {
+    color: black;
+}
 
 .footer {
     padding: 20px;
@@ -104,6 +116,8 @@ h4 {
     background: gray;
     width: 100%;
 }
+
+
 
 
 @media screen and (max-width: 980px) {
