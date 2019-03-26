@@ -144,7 +144,8 @@ a:hover {
       width: 100%;
     }
 
-    #aForm{
-        color: white;
+    #aForm,
+    #aForm:visited {
+        color: white !important;
     }
   }
