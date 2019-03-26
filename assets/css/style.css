@@ -4,6 +4,12 @@ h1 {
     font-family: 'Montserrat', sans-serif;
 }
 
+h2 {
+    color: white;
+    font-family: 'Kristi', cursive;
+}
+
+
 h3 {
     color: slategray;
     font-family: 'Kristi', cursive;
@@ -21,7 +27,7 @@ h4 {
 
 }
 .nav-link {
-    color: gray;
+    color: slategray;
     margin-bottom: 40px;
 }
 
@@ -72,8 +78,13 @@ h4 {
     font-family: 'Montserrat', sans-serif;
     margin: auto;
     float: center;
+    margin-top: 40px;
     margin-bottom: 20px;
-    color: white;
+    color: slategray;
+}
+
+.formHeader {
+    padding: 10px;
 }
 
 /* .portfolio-img {
@@ -98,17 +109,25 @@ h4 {
 
 .myInformation {
     padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     width: 80%;
     margin: auto;
 }
 
 a {
-    color: gray;
+    color: slategray;
 }
 
 a:hover {
     color: black;
 }
+
+#aForm {
+    color: slategray;
+}
+
+
 
 .footer {
     padding: 20px;
