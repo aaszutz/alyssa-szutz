@@ -5,19 +5,19 @@ h1 {
 }
 
 h2 {
-    color: white;
-    font-family: 'Kristi', cursive;
+    color: black;
+font-family: 'Petit Formal Script', cursive;
 }
 
 
 h3 {
     color: slategray;
-    font-family: 'Kristi', cursive;
+font-family: 'Petit Formal Script', cursive;
 }
 
 h4 {
     color: white;
-    font-family: 'Kristi', cursive;
+font-family: 'Petit Formal Script', cursive;
 }
 
 .topBorder{
@@ -147,4 +147,6 @@ a:hover {
     #aForm:visited {
         color: white !important;
     }
+
+
   }
