@@ -7,6 +7,7 @@ h1 {
 h2 {
     color: darkslategray;
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 
@@ -94,10 +95,14 @@ font-family: 'Petit Formal Script', cursive;
     max-height: 500px;
 } */
 
+img {
+    max-height: 450px;
+}
 
 .column {
     float: left;
     width: 50%;
+    
 }
 
 .row::after {
